@@ -2,7 +2,7 @@
 
 **Student:** Aldiyar Aimbetov  
 **GitHub profile:** [aldiyar5555](https://github.com/aldiyar5555)  
-**Repository:** [assignment-2](https://github.com/aldiyar5555/assignment-2)
+**Repository:** [assignment-2-data-structures](https://github.com/aldiyar5555/assignment-2-data-structures)
 
 ## Theoretical Complexity Table
 
